@@ -8,7 +8,7 @@
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
 
 ## Description
-Tech Challenge by WolliesX, which is like a adding an additional API layer on top of .NET API.
+Tech Challenge by WolliesX, which is like adding an additional, API layer on top of .NET API.
 
 ## API Routes
 
